@@ -14,7 +14,7 @@ char ch = 'a';
 
 while (ch <= 'z')
 {
-putchr(ch);
+putchar(ch);
 ch++;
 
 }
