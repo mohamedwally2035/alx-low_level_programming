@@ -7,7 +7,8 @@
  *
  * Return: Alaws 0 (success)
 */
-init main(void)
+
+int main(void)
 
 {
 
