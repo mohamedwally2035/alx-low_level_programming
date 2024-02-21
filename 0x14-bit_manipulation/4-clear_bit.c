@@ -2,7 +2,8 @@
 
 /**
  * clear_bit - clears the bit at the index
- * @n: the numbet to clear
+ * @n: the number to clear
+ * @index: the bit to clear
  *
  * Return: 1 if successful, -1 on error
  */
